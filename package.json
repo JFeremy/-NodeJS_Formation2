@@ -1,0 +1,14 @@
+{
+  "name": "NodeJS_Formation2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JFeremy/NodeJS_Formation2.git",
+  "author": "Jeremy Fumeron <jeremy.fumeron@orange.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "nodemon"
+  }
+}
